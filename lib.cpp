@@ -1,6 +1,3 @@
-//
-// Created by hp on 05/12/2022.
-//
 #include "lib.h"
 bool verifica(char a)
 {

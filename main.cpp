@@ -8,6 +8,6 @@ int main() {
         cout<<lettera(a)<<endl;
     }
     else{
-        cout<<"ERRORE"<<endl;
+        cout<<"errore"<<endl;
     }
 }
